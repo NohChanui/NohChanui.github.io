@@ -25,7 +25,7 @@ url                      : "https://NohChanui.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "NohChanui/NohChanui.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/Noh.png"
+logo                     : "/assets/image/Noh.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "노찬의"
-  avatar           : "/assets/images/Noh.png"
+  avatar           : "/assets/image/Noh.png"
   bio              : "six lover"
   location         : "대한민국, 대전"
   email            : "21-21044@hafs.hs.kr"
