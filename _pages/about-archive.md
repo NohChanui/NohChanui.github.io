@@ -1,7 +1,8 @@
 ---
 title: "블로그 소개"
 permalink: /about/
-layout: single
+layout: about
+author_profile: true
 ---
 
 ## 음악
