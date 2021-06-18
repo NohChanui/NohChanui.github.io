@@ -2,11 +2,11 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "소개"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "연도"
+    url: /year-archive/
+  - title: "음악"
+    url: /collection-archive/
+  - title: "의공학"
+    url: /sitemap/
