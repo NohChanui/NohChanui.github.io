@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "소개"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://nohchanui.github.io/_pages/about.md
   - title: "연도"
     url: /year-archive/
   - title: "음악"
